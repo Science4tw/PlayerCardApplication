@@ -1,0 +1,4 @@
+John;FC United;Jamaika;STUERMER;
+Jim;FC Schuttclub;Kolumbien;STUERMER;
+Karl;FC Bubu;Island;TORWART;
+Harald;FC Bubu;Island;VERTEIDIGER;
